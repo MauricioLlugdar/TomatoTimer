@@ -1,2 +1,3 @@
 # TomatoTimer
 The best tomato timer in the whole world, be careful...
+The project is base in this main idea https://en.wikipedia.org/wiki/Pomodoro_Technique , you could personalize it
